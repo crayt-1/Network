@@ -1,5 +1,5 @@
 [package]
-name = "gf1030/network"
+name = "crayt-1/network"
 version = "0.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
